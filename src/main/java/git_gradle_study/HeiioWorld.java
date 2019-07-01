@@ -8,6 +8,8 @@ public class HeiioWorld {
 		System.out.println("World End");
 		System.out.println("Earth's end Dancehall");
 		System.out.println("local");
+		System.out.println("Github Editing");
+		System.out.println("Github Editing2");
 
 	}
 
